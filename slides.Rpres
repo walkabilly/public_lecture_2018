@@ -30,49 +30,113 @@ Data
 
 Data
 ========================================================
-<iframe src="https://giphy.com/embed/Q8OFa3gDkzCHS" width="480" height="378" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/submission-data-dancing-with-the-stars-Q8OFa3gDkzCHS"></a></p>
-
-Data
-========================================================
 <iframe src="https://giphy.com/embed/7LrE3VMOuU6Dm" width="480" height="435" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/car-prank-math-7LrE3VMOuU6Dm"></a></p>
 
 Data
 ========================================================
 <iframe src="https://giphy.com/embed/TgHosMP8OADYO6onsC" width="426" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smile-robot-zuckerberg-TgHosMP8OADYO6onsC"></a></p>
 
-Underlying Assumption
+Data
 ========================================================
-![](image3.jpg)
+<iframe src="https://giphy.com/embed/Q8OFa3gDkzCHS" width="480" height="378" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/submission-data-dancing-with-the-stars-Q8OFa3gDkzCHS"></a></p>
 
 What we know
 ========================================================
-summary of research to date
+- Mixed land use and walkable areas promote physical activity
+- Sprawl reduces physical activity
+- Public Transit contributes to physical activity
+- High quality infrastructure are key
+
+ADD REFS
 
 What we want to know
 ========================================================
-summary of new research questions
+- How much do specific urban form changes influence behaviour? 
+- What is the potential health impact of urban form changes?
+- What can researchers do to help cities? 
 
-Methods and Knowledge
+Play
 ========================================================
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f_uwKZIAeM0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://giphy.com/embed/Ij87d6qbAhdJe" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Ij87d6qbAhdJe"></a></p>
 
 Projects
 ========================================================
 ### - ITHIM  
 ### - BikeMaps  
-### - INTERACT  
+### - Urban Form   
 ### - Computer Vision  
+### - Itinerum
 ### - Ethics  
     
 ITHIM
 ========================================================
 
 
+BikeMaps
+========================================================
+- 30% of bike collision data are collected
+- Cyclists are 2x more likely to be a in collision that motor vehicle users
+- Need a central method of reporting  
+
+![](bikemaps_logo.png)
+[https://bikemaps.org/about/](https://bikemaps.org/about/)
+
+BikeMaps
+========================================================
+![](bikemaps.png)
+
+Metrics
+========================================================
+- Urban Density Score
+    - Combines 19 measures for all cities in Canada
+    - First national sprawl index
+
+Urban Density Score
+========================================================
+![](Sprawl_stjohns.jpg) 
+
+Transit Accessibility Score
+========================================================
+- Transit Accessibility Score
+    - 41 Canadian Cities
+    - Global Transit Feed Specification
+      - St. John's 
+          - 926 stops | 116,151 stop times
+      - TTC: Toronto 
+          - 10,634 stops |  4,347,536 stop times
+    - First national transit accessibility index
+
+Transit Accessibility Score
+========================================================
+![](PTAI.png)
+
+Machine Learning
+========================================================
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f_uwKZIAeM0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Computer Vision
 ========================================================
 ![](computervision.png)
 
 [Image Recognition](https://www.blog.google/topics/machine-learning/understanding-inner-workings-neural-networks/)
+
+Computer Vision
+========================================================
+- Automatically detect cycling infrastructure and cleared sidewalks
+- Automatically detect changes
+
+Computer Vision
+========================================================
+![](sample04_MATLAB.jpg)
+
+Computer Vision
+========================================================
+![](sample07_MATLAB.jpg)
+
+ITHIM
+========================================================
+
+ls
 
 Competition
 ========================================================
@@ -97,8 +161,25 @@ Machine Learning
 
 Machine Learning
 ========================================================
-![](image4.gif)
+
 
 Open Science
 ========================================================
 ![](image10.png)
+
+Team
+========================================================
+You              | Rock!
+---------------- | ---------------
+Faramarz Dorani  | Jonathan Low  
+Hui Luan         | Desiree van Heerden       
+Kassia Orychock  | Javad Rahimipour Anaraki  
+Bo Simango       | Majid Beheshti Mohtasham
+Maria Yulmetova  | Melissa Tobin 
+Machel Rayner    | Richard Buote
+
+Funding
+========================================================
+![](sponsor1.jpg)  
+![](sponsor2.png)  
+![](sponsor3.png)  
