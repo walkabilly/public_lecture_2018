@@ -3,8 +3,9 @@
 Designing Health Cities Using Data and Policy
 ========================================================
 Dr. Daniel Fuller   
-Canada Research Chair in Population Physical Activity
-Memorial University of Newfoundland
+Canada Research Chair in Population Physical Activity  
+School of Human Kinetics and Recreation  
+Memorial University of Newfoundland  
 
 ![](MUNLogo.png) 
 
@@ -31,10 +32,6 @@ Underlying Assumption
 Data
 ========================================================
 <iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6"></a></p>
-
-Data
-========================================================
-<iframe src="https://giphy.com/embed/TgHosMP8OADYO6onsC" width="426" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smile-robot-zuckerberg-TgHosMP8OADYO6onsC"></a></p>
 
 Data
 ========================================================
@@ -121,15 +118,15 @@ Measures
 
 ![](canue.png)
 
-Measures
+Urban Density Score
 ========================================================
-- Urban Density Score
-    - 4 dimensions
-        - Density
-        - Mixed land use
-        - Centering
-        - Street Accessibility
-    - Bayesian Spatial Factor Analysis
+  - 33 Census Metropolitain Areas
+  - 4 dimensions
+      - Density
+      - Mixed land use
+      - Centering
+      - Street Accessibility
+  - Bayesian Spatial Factor Analysis
 
 Urban Density Score
 ========================================================
@@ -137,13 +134,12 @@ Urban Density Score
 
 Transit Accessibility Score
 ========================================================
-- Transit Accessibility Score
-    - 41 Canadian Cities
-    - Global Transit Feed Specification
-      - St. John's 
-          - 926 stops | 116,151 stop times
-      - TTC: Toronto 
-          - 10,634 stops |  4,347,536 stop times
+  - 41 Canadian Cities
+  - Global Transit Feed Specification
+    - St. John's 
+        - 926 stops | 116,151 stop times
+    - TTC: Toronto 
+        - 10,634 stops |  4,347,536 stop times
           
 Transit Accessibility Score
 ========================================================
@@ -185,6 +181,12 @@ Transportation Mode Detection
 
 Policy
 ========================================================
+![](smartcities.png)
+
+[VOCM](http://vocm.com/news/st-johns-happy-city-teaming-up-for-smart-cities-challenge/)
+
+Policy
+========================================================
 - What is generizable? 
 - What is local? 
 - How do local and generalizable interact? 
@@ -195,9 +197,7 @@ Policy
 
 Policy
 ========================================================
-![](smartcities.png)
-
-[VOCM](http://vocm.com/news/st-johns-happy-city-teaming-up-for-smart-cities-challenge/)
+<iframe src="https://giphy.com/embed/4B9fXowr3GlG0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fail-travel-biking-4B9fXowr3GlG0"></a></p>
 
 Competition
 ========================================================
@@ -213,13 +213,26 @@ Competition
 
 Ethical Reflections
 ========================================================
-![](image11.png)
+- Do participants understand what they are consenting to? 
+- Do participants understand what can be done with the data? 
+- How does this relate to social inequalities?  
+
+[Fuller et al. 2017](https://doi.org/10.1016/j.socscimed.2017.08.043)
+
+Ethical Reflections
+========================================================
+<iframe src="https://giphy.com/embed/TgHosMP8OADYO6onsC" width="426" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smile-robot-zuckerberg-TgHosMP8OADYO6onsC"></a></p>
 
 Social Inequalities
 ========================================================
-![](lancet.jpg)
+![](lancet2.png)
 
 [Stringhini et al. 2017](https://www.sciencedirect.com/science/article/pii/S0140673616323807)
+
+Social Inequalities
+========================================================
+- Addressing social inequalities is crucial for healthy cities
+- We must not let *smart* things shift our focus
 
 Open Science
 ========================================================
@@ -242,14 +255,20 @@ Funding
 Team
 ========================================================
 You              | Rock!
----------------- | ---------------
+---------------- | -------
 Faramarz Dorani  | Jonathan Low  
-Hui Luan         | Desiree van Heerden       
-Kassia Orychock  | Javad Rahimipour Anaraki  
+Hui Luan         | Desiree van Heerden     
+Kassia Orychock  | Javad Rahimipour Anaraki 
 Bo Simango       | Majid Beheshti Mohtasham
 Maria Yulmetova  | Melissa Tobin 
-Machel Rayner    | Richard Buote
+Machel Rayner    | Richard Buote 
+
+<iframe src="https://giphy.com/embed/WU8eEdMhhXu80" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/amy-poehler-tina-fey-high-five-WU8eEdMhhXu80"></a></p>
 
 Thank you
 ========================================================
+Daniel Fuller  
+dfuller@mun.ca  
+@walkabilly  
+
 <iframe src="https://giphy.com/embed/W80Y9y1XwiL84" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gift-W80Y9y1XwiL84"></a></p>
